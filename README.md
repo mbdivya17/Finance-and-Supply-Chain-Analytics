@@ -1,1 +1,1 @@
-Project is explained in SQL_Project Presentation.
+Project is explained in SQL Project Presentation.
